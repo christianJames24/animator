@@ -20,9 +20,9 @@ restructuring is not (unless really good 😂)
 implementation example (for the above):
 this is a combination of three effects, one for the hover(mouseenter) and two for the click(activated)
 <br>
+<br>
 first require animator module
 <img width="115" height="26" alt="image" src="https://github.com/user-attachments/assets/c8c5eb8c-bbae-4410-b03a-af0292fdd74f" />
-<br>
 <br>
 <img width="381" height="45" alt="image" src="https://github.com/user-attachments/assets/e8543806-12fb-4184-8dbb-c5dadf147cac" />
 <br>
