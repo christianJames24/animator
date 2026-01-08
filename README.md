@@ -30,4 +30,4 @@ assuming these effects are children of animator, we can do this:
 
 <br>
 <br>
-have fun, u can make ur own effects
+have fun, u can also make ur own effects
