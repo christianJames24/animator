@@ -5,7 +5,13 @@ optimizations are welcome
 <br>
 restructuring is not (unless really good 😂)
 
+
 ![67948789f2391f96ed18839bb89bfa1f](https://github.com/user-attachments/assets/96d92399-d3fa-4b73-a03d-f0c391ad35c2)
+
+<br>
+
+![f5035f855fcc1c60c836938106c3eac7](https://github.com/user-attachments/assets/7996228d-c1e8-4cdb-bc33-bbfe1a4bf20b)
+
 
 <hr>
 
