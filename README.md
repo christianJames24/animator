@@ -1,7 +1,9 @@
 # animator
 small and easy to use ui animation library for roblox
 <br>
-optimizations are welcome
+used in my game: https://www.roblox.com/games/18861634772/Hyper-Karts
+<br> <br>
+optimizations and contributions are welcome
 <br>
 restructuring is not (unless really good 😂)
 
@@ -36,4 +38,4 @@ assuming these effects are children of animator, we can do this:
 
 <br>
 <br>
-have fun, u can also make ur own effects
+have fun, u can also make ur own effects by making a pull request if u want
