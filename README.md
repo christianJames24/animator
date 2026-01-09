@@ -1,11 +1,11 @@
 # animator
-small and easy to use ui animation library for roblox
+Small and easy to use ui animation library for roblox
 <br>
-used in my game: https://www.roblox.com/games/18861634772/Hyper-Karts
+Used in my game: https://www.roblox.com/games/18861634772/Hyper-Karts
 <br> <br>
-optimizations and contributions are welcome
+Optimizations and contributions are welcome
 <br>
-restructuring is not (unless really good 😂)
+Restructuring is not (unless really good 😂)
 
 
 ![67948789f2391f96ed18839bb89bfa1f](https://github.com/user-attachments/assets/96d92399-d3fa-4b73-a03d-f0c391ad35c2)
@@ -17,17 +17,17 @@ restructuring is not (unless really good 😂)
 
 <hr>
 
-implementation example (for the above):
-this is a combination of three effects, one for the hover(mouseenter) and two for the click(activated)
+Implementation example (for the above):
+This is a combination of three effects, one for the hover(mouseenter) and two for the click(activated)
 <br>
 <br>
-first require animator module
+First require animator module
 <img width="115" height="26" alt="image" src="https://github.com/user-attachments/assets/c8c5eb8c-bbae-4410-b03a-af0292fdd74f" />
 <br>
 <img width="381" height="45" alt="image" src="https://github.com/user-attachments/assets/e8543806-12fb-4184-8dbb-c5dadf147cac" />
 <br>
 <br>
-assuming these effects are children of animator, we can do this:
+Assuming these effects are children of animator, we can do this:
 <br>
 <img width="170" height="323" alt="image" src="https://github.com/user-attachments/assets/188fa32d-b47f-44a9-ad74-e505072d083d" />
 <br>
@@ -38,4 +38,4 @@ assuming these effects are children of animator, we can do this:
 
 <br>
 <br>
-have fun, u can also make ur own effects by making a pull request if u want
+Have fun, you can also make ur own effects by making a pull request if you want
